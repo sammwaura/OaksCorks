@@ -14,8 +14,25 @@
         app:actionViewClass="android.widget.SearchView" />
 
     <item
+        android:id="@+id/About_Us"
+        android:title="AboutUs"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Contact_Us"
+        android:title="ContactUs"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_shopNow"
+        android:title="ShopNow"
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item
         android:id="@+id/action_logout"
         android:title="Logout"
         android:visible="true"
         app:showAsAction="never" />
+
 </menu>
