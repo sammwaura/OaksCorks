@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880747523546",
+    "firebase_url": "https://oarkscorks.firebaseio.com",
+    "project_id": "oarkscorks",
+    "storage_bucket": "oarkscorks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880747523546:android:7dc58a3d21edc059",
+        "android_client_info": {
+          "package_name": "com.meshsami27.oarkscorks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880747523546-n0si558tslvg1en5lfr6jmt25nv9hute.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meshsami27.oarkscorks",
+            "certificate_hash": "f0b7e7a0774db05e92338443f3c862bbf26aedfc"
+          }
+        },
+        {
+          "client_id": "880747523546-3062giggo7l22tls4kjv6clg6kji9tb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_nixy3aouPBH9iQxjdZAxsVb4j3zR2Sc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880747523546-3062giggo7l22tls4kjv6clg6kji9tb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
