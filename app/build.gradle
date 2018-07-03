@@ -32,6 +32,8 @@ dependencies {
     implementation 'com.jakewharton:butterknife:8.8.1'
     implementation 'com.android.support:recyclerview-v7:27.0.0'
     implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'org.parceler:parceler-api:1.1.10'
+    annotationProcessor 'org.parceler:parceler:1.1.10'
     implementation 'com.android.support:support-v4:27.1.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     implementation 'com.squareup.okhttp3:okhttp:3.10.0'
