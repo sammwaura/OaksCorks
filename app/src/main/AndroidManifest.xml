@@ -23,7 +23,8 @@
         <activity android:name=".ui.ShopActivity" />
         <activity android:name=".ui.AboutUsActivity" />
         <activity android:name=".ui.ContactUsActivity" />
-        <activity android:name=".ui.DetailShopActivity"></activity>
+        <activity android:name=".ui.DetailShopActivity" />
+        <activity android:name=".ui.DrinkListActivity" />
         <activity android:name=".ui.DetailDrinkActivity"></activity>
     </application>
 
